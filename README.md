@@ -18,4 +18,5 @@ The repository contrasts and evaluates two foundational paradigms:
 
 ##
 Grade: 25
+
 AY: 2025-2026
